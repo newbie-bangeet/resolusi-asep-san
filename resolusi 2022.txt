@@ -2,4 +2,5 @@ resolusi 2022 :
 - belajar frontend
 - belajar backend
 - belajar mobile programing
-- belajar cloud computing
+- belajar AI
+- belajar bahasa inggris
